@@ -36,7 +36,7 @@ const App = () => {
     setEditingId(null);
     setEditInput("");
     setStartEditing(false);
-  };
+  }; 
 
 
   const removeTodo = (idx) => {
